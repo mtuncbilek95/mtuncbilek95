@@ -2,7 +2,7 @@
 
 - I am highly interested in Modern C++ (C++17/20) , C Languages and Graphics APIs such as DirectX and Vulkan.
 - Currently working as a software engineer in Izmir/Turkey at etecube®.
-- I am also Heavy Music Enthusiast who plays Ibanez RG7321 and do heavy vocals.
+- I am also Heavy Music Enthusiast who play Ibanez RG7321 and do heavy vocals.
 
 ### My Connection Link:
 <img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />[LinkedIn](https://www.linkedin.com/in/metehan-tun%C3%A7bilek-8527a9136/)

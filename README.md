@@ -1,10 +1,8 @@
 ### Hello there, I am Metehan
 
 - I am highly interested in Modern C++ (C++17/20) , C Languages and Graphics APIs such as DirectX and Vulkan.
+- Currently working as a software engineer in Izmir/Turkey at etecube®.
 - I am also Heavy Music Enthusiast who plays Ibanez RG7321 and do heavy vocals.
-
-### Now Listening:
-[<img src="http://novatorem-git-master.mtuncbilek95.vercel.app/api/spotify" alt="Spotify Now Playing" width=350 />](https://open.spotify.com/user/11100684594)
 
 ### My Connection Link:
 <img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />[LinkedIn](https://www.linkedin.com/in/metehan-tun%C3%A7bilek-8527a9136/)

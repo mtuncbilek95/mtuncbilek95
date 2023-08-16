@@ -1,7 +1,7 @@
 ### Hello there, I am Metehan
 
 - I am highly interested in Modern C++ (C++17/20) , C Languages and Graphics APIs such as DirectX and Vulkan.
-- Currently working as a software engineer in Izmir/Turkey at etecube®.
+- Currently not working.
 - I am also Heavy Music Enthusiast who play Ibanez RG7321 and do heavy vocals.
 
 ### My Connection Link:

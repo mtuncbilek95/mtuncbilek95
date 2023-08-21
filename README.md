@@ -1,7 +1,7 @@
 ### Hello there, I am Metehan
 
 - I am highly interested in Modern C++ (C++17/20) , C Languages and Graphics APIs such as DirectX and Vulkan.
-- Currently not working.
+- Currently searching for work while developing my own custom [Rendering Engine](https://github.com/mtuncbilek95/Dx11-Renderer).
 - I am also Heavy Music Enthusiast who play Ibanez RG7321 and do heavy vocals.
 
 ### My Connection Link:

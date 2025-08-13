@@ -6,25 +6,21 @@
 - You can check my porfolio site here: [Porfolio](https://mtuncbilek95.github.io/)
 
 ### My Connection Link:
-<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />[LinkedIn](https://www.linkedin.com/in/metehan-tun%C3%A7bilek-8527a9136/)
+<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/linkedin/linkedin-original.svg" />[LinkedIn](https://www.linkedin.com/in/metehan-tun%C3%A7bilek-8527a9136/)
 <br />
 
 ### Current Workflow:
-<img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-<img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="CMAKE" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" />
-<img align="left" alt="JetBrains" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" />
-<img align="left" alt="Git" width="26px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
-<img align="left" alt="GitHub" width="26px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-
-<br />
-
-### Previous Workflow:
-<img align="left" alt="OpenGL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" />
-<img align="left" alt="UnrealEngine" width="26px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" />
-<img align="left" alt="C#" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-<img align="left" alt="Unity Engine" width="26px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
-<img align="left" alt=".NET" width="26px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-<img align="left" alt=".NET Core" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" />
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
+<img align="left" alt="C" width="32px" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/icons/c/c-original.svg" />
+<img align="left" alt="C++" width="32px" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/cplusplus/cplusplus-original.svg" />
+<img align="left" alt="Python" width="32px" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/python/python-original.svg" />
+<img align="left" alt="Python" width="32px" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/llvm/llvm-original.svg" />
+<img align="left" alt="CMAKE" width="32px" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/cmake/cmake-original.svg" />
+<img align="left" alt="Git" width="32px" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/git/git-original-wordmark.svg" />
+<img align="left" alt="Github" width="32px" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/github/github-original.svg" />
+<img align="left" alt="Vulkan" width="32px" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/vulkan/vulkan-original.svg" />
+<img align="left" alt="Vulkan" width="32px" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/opengl/opengl-original.svg" />
+<img align="left" alt="Android" width="32px" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/android/android-original.svg" />
+<img align="left" alt="AndroidStudio" width="32px" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/androidstudio/androidstudio-original.svg" />
+<img align="left" alt="VS2022" width="32px" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/visualstudio/visualstudio-original.svg" />
+<img align="left" alt="JetBrains" width="32px" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/clion/clion-original.svg" />
 <br />

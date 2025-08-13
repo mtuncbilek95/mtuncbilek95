@@ -15,10 +15,11 @@
 <img align="left" alt="Python" width="32px" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/python/python-original.svg" />
 <img align="left" alt="Python" width="32px" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/llvm/llvm-original.svg" />
 <img align="left" alt="CMAKE" width="32px" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/cmake/cmake-original.svg" />
+<img align="left" alt="Qt" width="32px" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/qt/qt-original.svg" />
 <img align="left" alt="Git" width="32px" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/git/git-original-wordmark.svg" />
 <img align="left" alt="Github" width="32px" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/github/github-original.svg" />
 <img align="left" alt="Vulkan" width="32px" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/vulkan/vulkan-original.svg" />
-<img align="left" alt="Vulkan" width="32px" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/opengl/opengl-original.svg" />
+<img align="left" alt="OGL" width="32px" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/opengl/opengl-original.svg" />
 <img align="left" alt="Android" width="32px" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/android/android-original.svg" />
 <img align="left" alt="AndroidStudio" width="32px" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/androidstudio/androidstudio-original.svg" />
 <img align="left" alt="VS2022" width="32px" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/visualstudio/visualstudio-original.svg" />

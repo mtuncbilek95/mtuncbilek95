@@ -1,7 +1,7 @@
 ### Hello there, I am Metehan
 
 - I am highly interested in Modern C++ (C++17/20/23) , C Languages and Graphics APIs such as DirectX and Vulkan.
-- Currently working freelance for:
+- Currently doing freelance for:
   - Engine/Graphics Programmer - Magic Media
   - Engine/Tool Programmer - Roveldo Consultancy
   - Game System Programmer - RBM Interactive

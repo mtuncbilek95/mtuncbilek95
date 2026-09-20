@@ -2,9 +2,9 @@
 
 - I am highly interested in Modern C++ (C++17/20/23) , C Languages and Graphics APIs such as DirectX and Vulkan.
 - Currently doing freelance for:
-  - Engine/Graphics Programmer - Magic Media
-  - Engine/Tool Programmer - Roveldo Consultancy
-  - Game System Programmer - RBM Interactive
+  - Engine/Graphics Engineer - Magic Media
+  - Engine/Tool Engineer - Roveldo Consultancy
+  - Game System Engineer - RBM Interactive
 - Developing a custom modular game engine in C++23 & DX12 [link here](https://github.com/mtuncbilek95/Horizon).
 - I am also Heavy Music Enthusiast who play Ibanez RG7321 and do heavy vocals.
 - You can check my porfolio site here: [Porfolio](https://mtuncbilek95.github.io/)
